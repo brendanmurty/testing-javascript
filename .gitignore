@@ -12,6 +12,7 @@ Thumbs.db
 
 node_modules/
 vendor/
+.nyc_output
 
 # Sensitive configuration files
 
